@@ -5,7 +5,7 @@
   - 🌱 I’m currently studying Computer Engineer at INATEL  <br>
   - 💬 Ask me about anything interesting <br>  
   - 📫 Contact: pivoto.gustavo@gec.inatel.br  <br>  
-  - ⚡ Fun fact: Fun fact: My first line of code was in C++ <br>  
+  - ⚡ Fun fact: My first line of code was in C++ <br>  
   
 </p>
 
