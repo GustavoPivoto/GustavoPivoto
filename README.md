@@ -1,11 +1,11 @@
 ## About me:
 
 <p style="margin:0.5rem; width: 100%; font-size: 100%" > 
-  - 🔭 I’m currently working at ICDT  <br>
-  - 🌱 I’m currently studying Computer Engineer at Inatel  <br>
-  - 💬 Ask me about anything science <br>  
+  - 🔭 I’m currently working at ICDT - INATEL CubeSat Design Team  <br>
+  - 🌱 I’m currently studying Computer Engineer at INATEL  <br>
+  - 💬 Ask me about anything interesting <br>  
   - 📫 Contact: pivoto.gustavo@gec.inatel.br  <br>  
-  - ⚡ Fun fact: My first line of code was for Arduino <br>  
+  - ⚡ Fun fact: Fun fact: My first line of code was in C++ <br>  
   
 </p>
 
