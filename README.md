@@ -8,7 +8,7 @@
 - 📫 Contact: pivoto.gustavo@gec.inatel.br
 - ⚡ Fun fact: My first line of code was in C++
 
-## Contact
+## Other contacts:
 
 <p style="margin:0.5rem; width: 100%; font-size: 100%" >
 
