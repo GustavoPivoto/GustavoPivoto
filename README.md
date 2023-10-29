@@ -8,7 +8,6 @@
 - 🌱 I'm currently studying Computer Engineering at Inatel
 - 💬 Ask me about anything interesting
 - 📫 Contact: pivoto.gustavo@gec.inatel.br
-- ⚡ Fun fact: My first line of code was in C++
 
 ## Other contacts:
 
