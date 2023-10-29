@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-## About Me
+## About Me:
 
 - 🔭 I'm currently working at ICDT - Inatel CubeSat Design Team
 - 🌱 I'm currently studying Computer Engineering at Inatel
