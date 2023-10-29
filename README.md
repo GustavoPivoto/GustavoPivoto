@@ -14,7 +14,7 @@
 <p style="margin:0.5rem; width: 100%; font-size: 100%" >
 
   <a href="https://www.linkedin.com/in/gustavo-pivoto-ambrósio-263bb8252/">
-  <img style="margin:1rem 0.5rem; height: 47%;" src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin">
+  <img style="margin:1rem 0.5rem; height: 47%;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://www.instagram.com/gu.pivoto/">
