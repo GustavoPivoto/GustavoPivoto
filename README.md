@@ -6,7 +6,6 @@
 
 - 🔭 I'm currently working at ICDT - Inatel CubeSat Design Team
 - 🌱 I'm currently studying Computer Engineering at Inatel
-- 💬 Ask me about anything interesting
 - 📫 Contact: pivoto.gustavo@gec.inatel.br
 
 ## Other contacts:
